@@ -1,0 +1,25 @@
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  color: grey;
+
+}
+
+body{
+  background-color: #EAF6F6;
+}
+
+h1
+{
+  color: #66bfbf;
+}
+
+h2
+{
+  color: #66bfbf;
+}
+.ta:focus{
+  background-color: #C9CCD5;
+}
